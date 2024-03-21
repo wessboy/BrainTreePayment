@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrainTreePayment", "BrainTreePayment\BrainTreePayment.csproj", "{D4255F7E-E9A4-42D8-8169-951A84635FEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrainTreePayment.Business.Layer", "BrainTreePayment.Business.Layer\BrainTreePayment.Business.Layer.csproj", "{B77C2E68-8EA5-4CD9-AC7F-B1F41F6BF8C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrainTreePayment.Infrastructure.Layer", "BrainTreePayment.Infrastructure.Layer\BrainTreePayment.Infrastructure.Layer.csproj", "{48F34FEB-5EBD-4612-894E-8C90A6F12A8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainTreePayment.API", "BrainTreePayment.API\BrainTreePayment.API.csproj", "{1DE78A70-C7A9-481B-9763-978EF9A68FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4255F7E-E9A4-42D8-8169-951A84635FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4255F7E-E9A4-42D8-8169-951A84635FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4255F7E-E9A4-42D8-8169-951A84635FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4255F7E-E9A4-42D8-8169-951A84635FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77C2E68-8EA5-4CD9-AC7F-B1F41F6BF8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77C2E68-8EA5-4CD9-AC7F-B1F41F6BF8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77C2E68-8EA5-4CD9-AC7F-B1F41F6BF8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77C2E68-8EA5-4CD9-AC7F-B1F41F6BF8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F34FEB-5EBD-4612-894E-8C90A6F12A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F34FEB-5EBD-4612-894E-8C90A6F12A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F34FEB-5EBD-4612-894E-8C90A6F12A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F34FEB-5EBD-4612-894E-8C90A6F12A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE78A70-C7A9-481B-9763-978EF9A68FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE78A70-C7A9-481B-9763-978EF9A68FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE78A70-C7A9-481B-9763-978EF9A68FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE78A70-C7A9-481B-9763-978EF9A68FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {655AD19C-E537-4947-BA95-41744A74B159}
+	EndGlobalSection
+EndGlobal
